@@ -1,2 +1,2 @@
 # server.cfg
-the default preset fivem server.cfg
+the default fivem server.cfg for elementalnodes.net
